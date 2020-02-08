@@ -1,3 +1,3 @@
-# android_socketio
+# android + socketio
 
-Пример использования socketio в для нативного android приложения
+Пример использования socketio в нативном android приложения
